@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Cache
 .cache/
-
 Notebooks/.cache/*
+
+# Lecturer notebooks - Do not upload to GitHub
+030_RING_RESONATOR_Lecturer.ipynb
